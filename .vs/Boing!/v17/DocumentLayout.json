@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\spielbild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\spielbild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\levelauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\levelauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|c:\\users\\thier\\onedrive\\desktop\\boing!\\boing!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\spilebild2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\spilebild2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\hilfebild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\hilfebild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\hilfebild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\hilfebild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\levelauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\levelauswahl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\spielbild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\spielbild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\spilebild2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\spilebild2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\spilebild2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\spilebild2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\boing!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112E6D85-98F7-49DC-9708-98574621D85E}|Boing!\\Boing!.csproj|solutionrelative:boing!\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form1.cs",
+              "RelativeDocumentMoniker": "Boing!\\Form1.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form1.cs",
+              "RelativeToolTip": "Boing!\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:42:50.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form2.cs",
+              "RelativeDocumentMoniker": "Boing!\\Form2.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form2.cs",
+              "RelativeToolTip": "Boing!\\Form2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:31:03.406Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpielBild.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpielBild.cs",
+              "RelativeDocumentMoniker": "Boing!\\SpielBild.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpielBild.cs",
+              "RelativeToolTip": "Boing!\\SpielBild.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:02:48.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpielBild.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpielBild.cs",
+              "RelativeDocumentMoniker": "Boing!\\SpielBild.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpielBild.cs [Entwurf]",
+              "RelativeToolTip": "Boing!\\SpielBild.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:49:29.209Z",
+              "IsPinned": true,
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form1.cs",
+              "RelativeDocumentMoniker": "Boing!\\Form1.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\oesch2\\Boing!\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "..\\oesch2\\Boing!\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:40:45.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HilfeBild.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\HilfeBild.cs",
+              "RelativeDocumentMoniker": "Boing!\\HilfeBild.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\HilfeBild.cs",
+              "RelativeToolTip": "Boing!\\HilfeBild.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:44:48.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpileBild2.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpileBild2.cs",
+              "RelativeDocumentMoniker": "Boing!\\SpileBild2.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\oesch2\\Boing!\\SpileBild2.cs [Entwurf]",
+              "RelativeToolTip": "..\\oesch2\\Boing!\\SpileBild2.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:40:59.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HilfeBild.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\HilfeBild.cs",
+              "RelativeDocumentMoniker": "Boing!\\HilfeBild.cs",
+              "ToolTip": "C:\\Users\\thier\\source\\repos\\Boing!\\Boing!\\HilfeBild.cs [Entwurf]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Boing!\\Boing!\\HilfeBild.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:44:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Levelauswahl.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Levelauswahl.cs",
+              "RelativeDocumentMoniker": "Boing!\\Levelauswahl.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Levelauswahl.cs",
+              "RelativeToolTip": "Boing!\\Levelauswahl.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:22:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Levelauswahl.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Levelauswahl.cs",
+              "RelativeDocumentMoniker": "Boing!\\Levelauswahl.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Levelauswahl.cs [Entwurf]",
+              "RelativeToolTip": "Boing!\\Levelauswahl.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:22:47.433Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpileBild2.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpileBild2.cs",
+              "RelativeDocumentMoniker": "Boing!\\SpileBild2.cs",
+              "ToolTip": "C:\\Users\\thier\\source\\repos\\Boing!\\Boing!\\SpileBild2.cs*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Boing!\\Boing!\\SpileBild2.cs*",
+              "ViewState": "AgIAAHwAAAAAAAAAAAA7wFIBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:41:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpileBild2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpileBild2.Designer.cs",
+              "RelativeDocumentMoniker": "Boing!\\SpileBild2.Designer.cs",
+              "ToolTip": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\SpileBild2.Designer.cs",
+              "RelativeToolTip": "Boing!\\SpileBild2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:02:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\thier\\OneDrive\\Desktop\\Boing!\\Boing!\\Form2.cs",
+              "RelativeDocumentMoniker": "Boing!\\Form2.cs",
+              "ToolTip": "C:\\Users\\thier\\source\\repos\\Boing!\\Boing!\\Form2.cs [Entwurf]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Boing!\\Boing!\\Form2.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:33:45.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
